@@ -6,7 +6,7 @@ Hello there! This is my GitHub profile for work/school.
 
 I'm Sam, currently studying CompSci in the United Kingdom.
 
-My expertise mostly consists of backend software development, I typically work on servers/APIs with Python or Javascript.
+My expertise mostly consists of backend software development, I typically work on servers/APIs with Python or Javascript. I tend to explore other bits and pieces here and there so this is by no means my specialty.
 
 I do a little bit of game development when I find the spare time.
 
